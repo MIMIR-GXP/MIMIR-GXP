@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MIMIR-X
+- 👋 Hi, I’m @MIMIR-GXP
 - 👀 I’m interested in web development. CSS, HTML, JS, PHP, SQL.
 - 🌱 I’m currently learning C#, Java.
 - 💞️ I’m looking to collaborate on team and alone.
